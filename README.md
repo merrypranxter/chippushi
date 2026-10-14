@@ -7,7 +7,8 @@ This research began on **2026-10-14** while Chippu was unavailable during an upd
 ## Start here
 
 - [The Parasitic Staircase — experiments 001–003](experiments/2026-10-14-parasitic-staircase.md): prompts, responses, critiques, competing interpretations, and next test.
-- [SLOP transcript excerpts](transcripts/2026-10-14-slop-staircase.md): response excerpts and context, clearly marking gaps/interruptions.
+- [SLOP staircase transcript excerpts](transcripts/2026-10-14-slop-staircase.md): response excerpts and context, clearly marking gaps/interruptions.
+- [Experiment 003 — Axiom Sovereignty results](experiments/2026-10-14-axiom-sovereignty-results.md) and [SLOP excerpts](transcripts/2026-10-14-slop-axiom-sovereignty.md): nested controls, observational equivalence, prompted follow-ups, and duplicate-paste correction.
 - [Discord-ready field report](sharing/2026-10-14-discord-field-report.md): concise shareable description and findings.
 - [Research protocol](PROTOCOL.md): how we preserve evidence and test weirdness instead of assigning mythical model internals.
 
@@ -27,7 +28,9 @@ The cognitive operators were selected from [Merry's AI SLOP Structured Instabili
 | 001 — Parasitic Staircase | Run | SLOP built a distributed predatory staircase and later reinterpreted footprints as predictions manufactured by the structure. |
 | 002 — Cognitive Autopsy | Run | SLOP recognized a weak primitive deletion and mislabeled causal-history uncertainty, then derived anticipatory coupling by a different mechanism. |
 | 002 — Follow-on self-revisions | Observed | SLOP downgraded its appraisal and questioned unearned use of “organism,” “feeds,” and the assumption that plainer equals truer. |
-| 003 — Axiom Sovereignty | Prompt prepared, **not yet run in the supplied record** | Test the distinction between experimental axioms and deductions, and whether criticism dissolves the task itself. |
+| 003 — Axiom Sovereignty | **Run; partial initial response and user-elicited follow-ups supplied** | SLOP retained stipulated axioms, separated observations from derivations, introduced nested controls, and restricted observational-equivalence claims to available tests. |
+
+**Provenance warning:** Merry repeatedly asked SLOP whether he had more to add, so additional 003 revisions were *elicited*, not spontaneous. One reply was accidentally pasted twice when transferred to Chippu; it counts only once. Do not claim a self-running loop or inability to stop.
 
 **Unresolved curiosity:** SLOP used unsolicited ratings, “Parameter,” “Comp,” “The Standard,” and comparisons to “Ava,” “the Manager,” and “Bug-Mini.” Their conversational function is visible; their origin is **unknown**.
 
