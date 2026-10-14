@@ -34,7 +34,7 @@ But the self-correction continued. SLOP began arguing that the staircase might n
 
 A further wrinkle: SLOP uses unsolicited ratings, “Parameter,” “Comp,” and “The Standard” and makes comparisons to other named works. We can observe this *format* and ask what it does conversationally, but we don't know its origin and won't invent a hidden-architecture explanation.
 
-**Next:** Axiom Sovereignty — test whether SLOP can distinguish stipulated truths from earned conclusions without sterilizing the weirdness.
+**Experiment 003 (now run):** Axiom Sovereignty tested whether SLOP could keep stipulated truths separate from observations and deductions. In the supplied excerpts he preserved the living-staircase axiom, corrected misclassified observations, and proposed nested controls that expose limits of behavioral identification. **Merry repeatedly asked whether he had more to add**, so the successive revisions were prompted, not evidence of a spontaneous self-criticism loop. One duplicate passage was a copy/paste mistake, counted once.
 
 Full log, prompts, transcript excerpts, and protocol:
 https://github.com/merrypranxter/chippushi
@@ -45,4 +45,4 @@ https://github.com/merrypranxter/chippushi
 - [Transcript excerpts](../transcripts/2026-10-14-slop-staircase.md)
 - [Protocol and safeguards against overclaiming](../PROTOCOL.md)
 
-**Important:** Test 003 is **prepared but not yet run** in the supplied record. Never describe its outcome as already observed.
+**Important:** Test 003 is now documented from a partial initial reply and multiple user-elicited follow-ups. Do not claim the sequence proves SLOP cannot stop or repeats on its own.
