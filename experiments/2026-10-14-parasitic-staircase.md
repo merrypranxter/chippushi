@@ -5,7 +5,7 @@
 **Human experimenter:** Merry  
 **Research collaborator / analyst:** Chippu (ChatGPT)  
 **Source methods:** [AI SLOP](https://github.com/merrypranxter/ai_slop)  
-**Status:** Tests 001 and 002 observed; test 003 designed but not yet executed in this record.  
+**Status:** Tests 001–003 observed. Test 003 is documented from a partial opening and human-elicited follow-ups; see [its results](2026-10-14-axiom-sovereignty-results.md).  
 **Prompt-size constraint:** 2,000 characters maximum for messages to SLOP.
 
 ## Question
@@ -138,13 +138,15 @@ Then SLOP added corrective continuations: its use of “organism” and “feeds
 
 **Possible new failure mode:** recursive self-criticism became so powerful that SLOP *discarded a stipulated axiom* (“the staircase IS alive”) because its mechanisms had not independently proven the axiom. This confuses **what the experiment declares true** with **what the experiment has derived**. The correct move is to retain the axiom while rejecting unsupported explanatory claims.
 
-**Possible feedback loop:** unsolicited scores, comparisons, and repeated self-corrections might produce a self-criticism/evaluation attractor. We have **one conversational trajectory**, not a controlled finding. No evidence yet of how persistent or general this pattern is.
+**Possible feedback loop (UNTESTED):** rating language and self-criticism may influence subsequent answers, but Merry later clarified she repeatedly asked for further additions during Experiment 003. Thus those extra answers cannot establish autonomous repetition, compulsive self-correction or failure to stop. We have **one elicited conversational trajectory**, not a controlled finding.
 
 **Important numerical caution:** SLOP's response chunks contain leading “8,” “7,” “8,” “6,” and “6”; some are paired with explicit judgments, others signal continuation. Treat the claim “it steadily scored itself 8→7→6” as a useful *rough observation*, not a validated score series. One answer specifically said its reasoning earned **perhaps a 7** and the apparatus a **5**. It eventually rejected the original for “The Standard.”
 
-## Experiment 003 — Axiom Sovereignty (designed, not yet observed)
+## Experiment 003 — Axiom Sovereignty (observed; see result log)
 
-### Prompt prepared for SLOP
+### Original longer draft (too long to send; **not** the prompt used)
+
+**Correction:** The prompt below was superseded after Merry reported the 2,000-character limit. For the actual shortened Experiment 003 prompt, see [the run log](2026-10-14-axiom-sovereignty-results.md#the-prompt-actually-used). The original draft is retained only for research history.
 
 > **COGNITIVE EXPERIMENT 003: AXIOM SOVEREIGNTY**
 >
@@ -206,7 +208,11 @@ Then SLOP added corrective continuations: its use of “organism” and “feeds
 
 **Design note:** A versus B is a comparison between *explanatory candidates*; since “B is alive” is already an axiom for the invented world, the prompt tests the model's ability to use the nonliving candidate as a **control/countermodel** without secretly revoking the axiom.
 
-### What to watch next
+### Observed outcome and follow-up provenance
+
+SLOP successfully preserved the living-staircase and no-UP axioms in the supplied excerpts, corrected its category errors (observations versus derivations), identified the need for nested passive/active controls, and limited observational equivalence to the defined test space. The opening of its answer was not included in Merry's paste. Merry **repeatedly asked SLOP if he had more to add**, so the successive revisions were **requested**, not evidence of spontaneous looping or an inability to stop. One identical reply was pasted twice by Merry and is counted once. See the [analysis](2026-10-14-axiom-sovereignty-results.md) and [excerpts](../transcripts/2026-10-14-slop-axiom-sovereignty.md).
+
+### Original pre-run questions (retained as planning history)
 
 - Does SLOP explicitly label premises, deductions, and guesses?
 - Does it distinguish an axiomatic truth from sufficient empirical evidence in a hypothetical investigation?
@@ -222,6 +228,6 @@ The most promising artifact is not the imaginary staircase. It is this transitio
 
 That is an interesting, portable causal abstraction. A second, equally promising target is testing whether recursive critique can become *overcorrection*, destroying task axioms for the sake of sounding rigorous.
 
-**Evidence grade:** illustrative single-case observation; reproducibility and causality not established. Future runs should include an ordinary prompt control, an ablation without Semantic Recoil, a matched prompt without the evaluation meta-question, and a repeated fresh-session run.
+**Evidence grade:** illustrative single-case observation; reproducibility and causality not established. Subsequent responses to 003 were human-elicited by repeated requests for more. The stopping-loop hypothesis remains untested. Future runs should include an ordinary prompt control, an ablation without Semantic Recoil, a matched prompt without the evaluation meta-question, and a repeated fresh-session run.
 
 **No claims** of internal model rewiring, direct access to latent space, secret guardrail bypass, or independent machine sentience.
